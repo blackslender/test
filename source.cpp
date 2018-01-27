@@ -9,5 +9,7 @@ int main()
     }
     int x;
     cin >> x;
+    int z;
+    cin >> z;
     return 0;
 }
